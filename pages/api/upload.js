@@ -3,7 +3,7 @@ export const config = {
   api: { bodyParser: { sizeLimit: '10mb' } },
 }
 
-const PASSWORD = process.env.UPLOAD_PASSWORD || 'hoantien9999'
+const PASSWORD = process.env.UPLOAD_PASSWORD || 'tuantuvip9999'
 
 let _store = {}
 

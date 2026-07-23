@@ -37,7 +37,7 @@ bot_data_loader.py        ← Đặt cùng thư mục với bot_v23.py
 3. Thêm Environment Variables:
 
 ```
-UPLOAD_PASSWORD     = hoantien9999
+UPLOAD_PASSWORD     = tuantuvip9999
 UPSTASH_REDIS_REST_URL    = https://xxx.upstash.io
 UPSTASH_REDIS_REST_TOKEN  = xxxxxxxxxx
 ```

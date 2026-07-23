@@ -2,7 +2,7 @@
 // Web bấm nút → POST /api/reload → set cờ pending=true
 // Bot poll GET /api/reload → nếu pending → load data → ghi kết quả lại → web poll thấy kết quả
 
-const PASSWORD = process.env.UPLOAD_PASSWORD || 'hoantien9999'
+const PASSWORD = process.env.UPLOAD_PASSWORD || 'tuantuvip9999'
 let _store = {}
 
 async function kvGet(key) {
